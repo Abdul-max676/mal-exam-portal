@@ -1,0 +1,6 @@
+{
+  "name": "Examination Portal",
+  "description": "A comprehensive, multi-role examination portal with exam management, grading, and secure testing environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
